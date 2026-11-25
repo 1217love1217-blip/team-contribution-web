@@ -1,0 +1,8 @@
+[모듈 명세서] — 매주 갱신   (이름: 이다현           )
+
+모듈 | 역할 | 주요 함수 | 완료
+input_module | 팀플 태스크 1건 입력 및 유효성 검증 | get_record() | 12주차
+storage_module | study_log.csv 에 팀플 기록 누적 저장 | save_record(record) | 12주차
+analysis_module | 팀원별 기여도·D-3 임박·지연 집계 | (13주차) |
+report_module | 전체 진행률 막대바 및 리포트 출력 | (13주차) |
+main | 모듈 연결 및 CLI 메뉴 실행 | (14주차) |

@@ -1,0 +1,5 @@
+# src/hello.py - 팀플 기여도 & 일정 관리 시스템 첫 실행 확인 코드 (11주차)
+print("=== 팀플 기여도 & 일정 관리 시스템 ===")
+member = input("팀원 이름을 입력하세요: ")
+progress = int(input("현재 담당 태스크 진행률(%)을 입력하세요: "))
+print(f"{member} 팀원의 현재 진행률은 {progress}%입니다. 시스템 준비 완료!")
